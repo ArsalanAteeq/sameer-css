@@ -1,0 +1,20 @@
+input[type = "text"]{
+    color: red;
+    background-color: sienna;
+}
+input[type = "password"]{
+    color: blue;
+    background-color: lightblue;
+}
+
+/* a[href *= "google"]{
+    color: lightgreen; 
+}  for all those links in which google word is present */
+
+/* a[href ^= "https"]{
+    color: lightsalmon;
+} for all those links which start with https */
+
+a[href $= ".com"]{
+    color: magenta;
+}
