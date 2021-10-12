@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue;
+}
+h1, h2{
+    border: 2px solid red;
+    /* if i decrease their width they will start from new line */
+    width: 500px;
+    display: inline;
+}
+h1{
+    margin: 100px;
+}
+
+a{
+    border: 2px solid green;
+    margin: 50px 100px;
+    padding: 30px 50px;
+    display: block;
+}
+
+/* but we can change inline element into block element vicer versa */

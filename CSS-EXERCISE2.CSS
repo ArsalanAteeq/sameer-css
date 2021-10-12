@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+h1{
+    border: lightgrey;
+    background-color: lightgrey;
+    width: 900px;
+    margin: 20px auto;
+    text-align: center;
+}
+div{
+    border: 2px solid black;
+    width: 879px;
+    margin: 40px auto;
+    padding: 10px;
+}
+/* .h4{
+    border: 2px solid black;
+    width: 879px;
+    margin: 20px auto;
+    padding: 10px;
+} */

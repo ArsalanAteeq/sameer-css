@@ -1,0 +1,15 @@
+h1{
+    border: 4px solid green;
+/* padding-left: 40px;
+padding-top: 80px;
+padding-right: 50px;
+padding-bottom: 70px; */
+
+/* padding: 80px; shortcut for keeping te same padding */
+
+/* padding: 20px 40px; shortcut for keeping same top and bottom padding and for kest and right */
+padding: 10px;
+width: 500px;
+margin: 20px auto;
+text-align: center;
+}
