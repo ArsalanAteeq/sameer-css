@@ -1,0 +1,12 @@
+hr{
+    width: 500px;
+    margin-left: 0px;
+}
+
+.box1{
+    width: 500px;
+    border: 2px solid red;
+    padding: 10px;
+    background-color: burlywood;
+    box-sizing: border-box;
+}
