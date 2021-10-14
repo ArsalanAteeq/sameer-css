@@ -1,0 +1,17 @@
+h1{
+    font-size: 30px;
+text-decoration: underline solid green; 
+text-decoration: underline wavy blue;
+}
+
+p{
+    font-size: 20px;
+    /* we use line-height for makking a distance between two lines */
+    line-height: 40px;
+
+      /* we use word spacing for makking a distance between two words */
+      word-spacing: 8px;
+
+        /* we use letter spacing for makking a distance between two letters */
+        letter-spacing: 2px;
+}
