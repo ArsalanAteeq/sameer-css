@@ -1,0 +1,9 @@
+
+/* parent ka pehla child */
+p:first-child{
+    color: red;
+}
+
+p:first-of-type{
+    color: green;
+}
