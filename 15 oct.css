@@ -7,3 +7,11 @@ p:first-child{
 p:first-of-type{
     color: green;
 }
+
+p:last-child{
+    color: blue;
+}
+
+p:last-of-type{
+    color: yellow;
+}
