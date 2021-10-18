@@ -1,0 +1,27 @@
+/* p::first-letter{
+    color: green;
+    font-size: 23px;
+} */
+
+p::selection{
+    background: yellow;
+    color: brown;
+}
+
+.p1::before{
+    content: 'hello ' ;
+    color: blue;
+ border: 1px solid red;
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.p1::after{
+    content: 'hello ' ;
+    color: blue;
+ border: 1px solid red;
+    display: block;
+    margin-top: 5px;
+    padding: 5px;
+}
