@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.fav-musician{
+    border: 10px solid green;
+}
+.sameer{
+    width: 25%;
+    background-color: lightgoldenrodyellow;
+    float: left;
+    padding: 15px;
+}
+
+.mursaleen{
+    width: 25%;
+    background-color: lightsalmon;
+    float: right;
+    padding: 15px;
+}
+.shariq{
+    width: 25%;
+    background-color: lightseagreen;
+    float: right;
+    padding: 15px;
+}
+.daniya{
+    width: 25%;
+    background-color: lightslategrey;
+    float: right;
+    padding: 15px;
+}
+
+.clearfix{
+    clear: both;
+}
